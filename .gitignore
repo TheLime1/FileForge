@@ -2,6 +2,8 @@
 *.C
 *.txt
 *.cpp
+*.png
+/gen
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
