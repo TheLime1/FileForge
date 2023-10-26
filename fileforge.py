@@ -54,5 +54,6 @@ if __name__ == "__main__":
     else:
         extension = sys.argv[1]
         num_files = int(sys.argv[2])
+        clear_directory("gen")
         generate_random_files(extension, num_files)
         print(f"{num_files} {extension} files have been generated in the 'gen' directory.")
