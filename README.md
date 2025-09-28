@@ -4,6 +4,8 @@
   # FileForge
   
   *A modern GUI-based file generator that creates random files with specified parameters.*
+
+  blah blah blah i only made this to send profs corrupt files
 </div>
 
 ## Features
